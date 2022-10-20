@@ -6,12 +6,12 @@ import Prototype from "./Prototype";
 export default function HiFiLanding() {
   return (
     <div>
-      <div className="w-full h-screen bg-[#0a192f]">
+      <div className="w-full h-screen bg-[#F3F3F3]">
         <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
-          <h1 className="text-3xl sm:text-4xl font-medium text-[#ccd6f6]">
-            High Fidelity App MockUps 
+          <h1 className="text-3xl sm:text-4xl font-medium text-[#005F70]">
+            High Fidelity App MockUps
           </h1>
-          <p className="text-gray-300 py-4 max-w-700px">
+          <p className="text-[#378897] py-4 max-w-700px">
             The main focus is to combine all the visual ingredients to create a
             coherent and attractive overall visual style. That is to aim to
             construct a clearly defined visual language that is consistent
