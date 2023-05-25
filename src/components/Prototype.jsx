@@ -16,7 +16,6 @@ export default function Prototype() {
                 width="500"
                 height="500"
                 src="https://www.figma.com/proto/u19zymOLwxtjdQnc8nMDkU/Mobile-App?page-id=151%3A1144&type=design&node-id=125-5158&viewport=-4581%2C908%2C0.43&scaling=scale-down&starting-point-node-id=125%3A5158"
-                allowfullscreen
               ></iframe>
             </div>
           </div>
