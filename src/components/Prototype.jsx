@@ -1,6 +1,5 @@
 import React from "react";
 
-
 export default function Prototype() {
   return (
     <div>
@@ -16,7 +15,7 @@ export default function Prototype() {
                 title="prototype-video"
                 width="500"
                 height="500"
-                src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fu19zymOLwxtjdQnc8nMDkU%2FMobile-App%3Fpage-id%3D151%253A1144%26node-id%3D125%253A5158%26viewport%3D-2730%252C607%252C0.28%26scaling%3Dscale-down%26starting-point-node-id%3D125%253A5158"
+                src="https://www.figma.com/proto/u19zymOLwxtjdQnc8nMDkU/Mobile-App?page-id=151%3A1144&type=design&node-id=125-5158&viewport=-4581%2C908%2C0.43&scaling=scale-down&starting-point-node-id=125%3A5158"
                 allowfullscreen
               ></iframe>
             </div>
@@ -26,4 +25,3 @@ export default function Prototype() {
     </div>
   );
 }
-     
