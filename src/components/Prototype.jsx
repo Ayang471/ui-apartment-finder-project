@@ -10,12 +10,13 @@ export default function Prototype() {
             <div className="text-3xl sm:text-4xl pt-8 pb-4 font-medium text-[#F3F3F3]">
               <h1>Interactive Prototypes from the Hi-Fi Mobile Wireframe</h1>
             </div>
-            <div className="aspect-w-16 aspect-h-9">
+            <div className="aspect-w-16 aspect-h-9 pt-10">
               <iframe
                 title="prototype-video"
-                width="500"
-                height="500"
-                src="https://www.figma.com/proto/u19zymOLwxtjdQnc8nMDkU/Mobile-App?page-id=151%3A1144&type=design&node-id=125-5158&viewport=-4581%2C908%2C0.43&scaling=scale-down&starting-point-node-id=125%3A5158"
+                width="700"
+                height="550"
+                src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fu19zymOLwxtjdQnc8nMDkU%2FMobile-App%3Fpage-id%3D151%253A1144%26type%3Ddesign%26node-id%3D125-5158%26viewport%3D-4581%252C908%252C0.43%26scaling%3Dscale-down%26starting-point-node-id%3D125%253A5158"
+                allowfullscreen
               ></iframe>
             </div>
           </div>
