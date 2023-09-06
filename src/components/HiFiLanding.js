@@ -1,6 +1,4 @@
 import React from "react";
-import HiFiLandingPage from "../assets/HiFiLanding.png";
-import HiFiMobile from "../assets/HiFiMobile.png";
 import Prototype from "./Prototype";
 
 export default function HiFiLanding() {
@@ -23,6 +21,7 @@ export default function HiFiLanding() {
         </div>
         <div className="aspect-w-16 aspect-h-9 pt-5 pb-10">
           <iframe
+            title="prototype-video"
             width="900"
             height="550"
             src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fu19zymOLwxtjdQnc8nMDkU%2FMobile-App%3Fpage-id%3D125%253A1417%26type%3Ddesign%26node-id%3D131-5562%26viewport%3D874%252C-397%252C0.22%26t%3Dm98oP4J7IcDbAqZm-1%26scaling%3Dscale-down%26starting-point-node-id%3D131%253A5562%26mode%3Ddesign"
