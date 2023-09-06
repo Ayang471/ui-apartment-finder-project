@@ -1,5 +1,6 @@
 import React from "react";
 import MobileHiFiWireframe from "./MobileHiFiWireframe";
+import Handoff from './Handoff'
 
 export default function Prototype() {
   return (
@@ -7,7 +8,6 @@ export default function Prototype() {
       <MobileHiFiWireframe />
       <div className="w-full bg-[#378897]">
         <div className="max-w-[1000px] mx-auto py-8 flex flex-col justify-center w-full h-full">
-
           <div className="flex flex-col pt-8 justify-center items-center">
             <div className="sm:text-center text-3xl sm:text-4xl pt-8 pb-4 font-small text-[#F3F3F3]">
               <p>Used Figma Prototype feature to ensure all features are functional.</p>
@@ -24,6 +24,7 @@ export default function Prototype() {
           </div>
         </div>
       </div>
+      <Handoff />
     </div>
   );
 }

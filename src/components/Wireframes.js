@@ -11,10 +11,10 @@ export default function Wireframes() {
     <div className="w-full bg-[#FFFAF2] pt-20">
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center w-full h-full">
         <h1 className="sm:text-center text-3xl sm:text-4xl font-medium text-[#005F70] mb-10">
-          Low Fidelity wireframes
+          Low Fidelity Wireframes
         </h1>
         <p className='pt-0 pb-10 text-[#005F70] font-medium '>
-        I sketched out different ideas before fine tuning them and creating the final wireframes. I really wanted to focus on creating a clean and modern design.
+          While creating the wireframes, I looked at best practices to make sure I was designing screens for the user that were understandable, recognizable and easy to navigate.
         </p>
       </div>
       <div className='container pb-10'>
@@ -23,28 +23,24 @@ export default function Wireframes() {
             <img
               src={LoFiHome}
               alt="mobile-wireframe"
-       
             />
           </div>
           <div className='col'>
             <img
               src={LoFiMore}
               alt="mobile-wireframe"
-              
             />
           </div>
           <div className='col'>
             <img
               src={LoFiContact}
               alt="mobile-wireframe"
-             
             />
           </div>
           <div className='col'>
             <img
               src={LoFiBlogs}
               alt="mobile-wireframe"
-         
             />
           </div>
         </div>

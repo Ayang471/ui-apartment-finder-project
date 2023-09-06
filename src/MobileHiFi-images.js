@@ -1,21 +1,21 @@
 export const MobileLoFi = [
     {
-        img:require('./assets/Home Page.jpg')
+        img:require('./assets/Home.png')
     },
     {
-        img: require('./assets/LogIn Page.jpg')
+        img: require('./assets/LogIn.png')
     },
     {
-        img: require('./assets/Detail Page.jpg')
+        img: require('./assets/DetailPage.png')
     },
     {
-        img: require('./assets/Map.jpg')
+        img: require('./assets/lofimap.png')
     },
     {
-        img: require('./assets/Profile.jpg')
+        img: require('./assets/lofiprofile.png')
     },
     {
-        img: require('./assets/More.jpg')
+        img: require('./assets/morelofi.png')
     },
 
 ]
