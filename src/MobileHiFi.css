@@ -1,0 +1,84 @@
+.mobile-Hifi {
+  
+  overflow: hidden;
+  position: relative;
+}
+
+.mobile-Hifi .shapes{
+  height: 110px;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 50%; 
+  position:relative;
+  top: 50px;
+  z-index: 1;
+}
+
+.carousel-list{
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+  overflow-x: auto;
+  scroll-snap-type:x mandatory;
+   scroll-behavior: smooth;
+}
+
+.mobile-Hifi .card{
+scroll-snap-align: center;
+min-width: 20%;
+border-radius: 45px;
+}
+
+.carousel-image{
+ width: 450px;
+  height:400px;
+  object-fit: cover;
+}
+
+@media screen and (min-width: 390px) and (max-width:767px) {
+  .carousel {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.carousel .shapes{
+border-radius: 0%;
+top:0px;
+}
+
+
+.carousel .list{
+min-width: 70%;
+}
+
+.carousel-image{
+  object-fit: cover;
+}
+
+}
+
+@media screen and (min-width: 768px) and (max-width:1024px) {
+  .carousel {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.carousel .shapes{
+    border-radius: 50%; 
+  position:relative;
+  top: 50px;
+  z-index: 1;
+}
+
+.carousel .list{
+min-width: 45%;
+}
+
+.carousel-image{
+ width: 450px;
+  object-fit: cover;
+}
+
+}
