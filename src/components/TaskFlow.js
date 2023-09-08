@@ -4,9 +4,9 @@ import Wireframes from "./Wireframes";
 
 export default function TaskFlow() {
   return (
-    <div>
-      <div className="w-full h-screen bg-[#005F70]">
-        <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
+
+      <div className="w-full bg-[#005F70]">
+        <div className="max-w-[1000px] mx-auto px-8  py-14 flex flex-col justify-center">
           <h1 className="text-3xl sm:text-4xl font-medium text-[#F3F3F3]">
            Task Flow Diagram
           </h1>
@@ -21,11 +21,11 @@ export default function TaskFlow() {
             <p>Search by location, pricing, and number of bedrooms.</p>
             <strong>Route 2:</strong>
             <p>User simply browsing through to view featured homes and more listings.</p>
+            <p>* both routes will lead the user to view details about the apartment and to contact the Landlord or Leasing Office to request for tours, send messages, then receive a confirmation email.</p>
           </div>
           <img src={taskflow} alt="task-flow" />
         </div>
         <Wireframes />
       </div>
-    </div>
   );
 }

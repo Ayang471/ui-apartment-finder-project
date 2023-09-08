@@ -13,11 +13,13 @@ function Scope() {
       <div>
         <p className="text-3xl text-[#005F70]">Requirements:</p>
         <ul className="list-disc text-[#378897] mt-4 text-md col-start-1 sm:col-span-2 lg:mt-6 lg:row-start-4 lg:col-span-1">
+          <li>This website and mobile app will help renters to find a new home.</li>
+          <li>Renter should be able to search, categorize, and filter the results by their preferences.</li>
           <li>How far is the apartment from a metro station?</li>
           <li>Are pets allowed?</li>
           <li>Do the criteria change depending on the type of neighborhood they are looking for?</li>
-          <li>View details about an apartment</li>
-          <li>Initiate contact with the owner</li>
+          <li>View details about an apartment.</li>
+          <li>Initiate contact with the owner.</li>
         </ul>
         <hr />
       </div>

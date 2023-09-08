@@ -1,9 +1,9 @@
 export const MobileLoFi = [
     {
-        img:require('./assets/Home.png')
+        img: require('./assets/LogIn.png')
     },
     {
-        img: require('./assets/LogIn.png')
+        img:require('./assets/Home.png')
     },
     {
         img: require('./assets/DetailPage.png')
