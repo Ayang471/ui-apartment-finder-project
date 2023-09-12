@@ -9,7 +9,7 @@ function Process() {
             <p className="sm:text-left text-3xl  text-[#005F70]">Process:</p>
             <ul className="list-disc  text-[#005F70] mt-4 text-md col-start-1 sm:col-span-2 lg:mt-6 lg:row-start-4 lg:col-span-1">
               <li>Define</li>
-              <li>Task Flow</li>
+              <li>User Task Flow</li>
               <li>Wireframing</li>
               <li>Style Guide</li>
               <li>Hi-Fidelity</li>

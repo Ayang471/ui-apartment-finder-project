@@ -8,7 +8,7 @@ export default function TaskFlow() {
       <div className="w-full bg-[#005F70]">
         <div className="max-w-[1000px] mx-auto px-8  py-14 flex flex-col justify-center">
           <h1 className="text-3xl sm:text-4xl font-medium text-[#F3F3F3]">
-           Task Flow Diagram
+           User Task Flow Diagram
           </h1>
           <p className="text-[#FFFAF2] py-4 max-w-700px">
             I created the core functionality of the app and determinded several routes that users 
